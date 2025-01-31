@@ -1,0 +1,14 @@
+{
+  "name": "prediktive",
+  "version": "1.0.0",
+  "description": "This repository contains a small framework to Duck Duck Go website and validate three test cases assigned as a challenge to run QA",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.0"
+  }
+}
